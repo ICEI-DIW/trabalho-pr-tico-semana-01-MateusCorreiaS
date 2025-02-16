@@ -8,6 +8,8 @@ Matricula: 893953
 
 ## Tela de inspeção com navegador
 
+![Ferarmentas de desenvolvedor](imagens/ferramentas-desenv.png)
 
 ## Tela de projeto no Replit
 
+![Tela do Replit](imagens/replit.png)
